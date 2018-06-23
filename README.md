@@ -9,7 +9,7 @@ platforms that golang supports.
 #### Build
 ```bash
 go get -v github.com:frzifus/just-ask
-cd $GOPATH/src/github.com/frzifus/just-ask
+cd $GOPATH/src/git.klimlive.de/frzifus/just-ask
 # linux64
 GOOS=linux GOARCH=amd64 go build
 # arm
