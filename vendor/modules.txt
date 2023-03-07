@@ -36,8 +36,8 @@ golang.org/x/exp/shiny/driver/internal/x11key
 golang.org/x/exp/shiny/driver/windriver
 golang.org/x/exp/shiny/driver/x11driver
 golang.org/x/exp/shiny/screen
-# golang.org/x/image v0.0.0-20180403161127-f315e4403028
-## explicit
+# golang.org/x/image v0.5.0
+## explicit; go 1.12
 golang.org/x/image/font
 golang.org/x/image/math/f64
 golang.org/x/image/math/fixed
